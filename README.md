@@ -10,7 +10,7 @@
   ```
   <df/>
   
-  ### 📂*Tech Stack*
+  ### 📂*Language*
  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=FFD43B">
  
   
