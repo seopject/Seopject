@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeauto&height=300&section=header&text=@Seopject&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:203089,100:203089&height=200&section=header&text=@Seopject&fontColor=E6F3D6&fontSize=70&fontAlign=70&fontAlignY=60&animation=twinkling)
