@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:015D84,100:062F36&height=200&section=header&text=@Seopject&fontColor=E6F3D6&fontSize=70&fontAlign=70&fontAlignY=60&animation=twinkling)
-![<readme_image>](<https://user-images.githubusercontent.com/118176134/212239970-8162b1b9-5d6d-4bb2-9a84-1626cc5f523e.jpg>)
-
-<df/>
 
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:015D84,100:062F36&height=200&section=header&text=@Seopject&fontColor=E6F3D6&fontSize=70&fontAlign=70&fontAlignY=60&animation=twinkling)
 
   ```
   Hello🖐
