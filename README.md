@@ -8,7 +8,7 @@
   ```
   <df/>
   
-  ### 📂*Learning*
+  ### 📂*Languages*
  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=FFD43B">
  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=Django&logoColor=132CC0A4">
  <img src="https://img.shields.io/badge/Html-f5deb3?style=for-the-badge&logo=html5&logoColor=132CC0A4">
