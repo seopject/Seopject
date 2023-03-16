@@ -10,6 +10,11 @@
   
   ### 📂*Learning*
  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=FFD43B">
+ <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=Django&logoColor=132CC0A4">
+ <img src="https://img.shields.io/badge/Html-f5deb3?style=for-the-badge&logo=html5&logoColor=132CC0A4">
+ <img src="https://img.shields.io/badge/CSS-00008b?style=for-the-badge&logo=css3&logoColor=132CC0A4">
+ <img src="https://img.shields.io/badge/Bootstrap-e6e6fa?style=for-the-badge&logo=Bootstrap&logoColor=132CC0A4">
+  
  
   
   
@@ -19,5 +24,6 @@
   
   <df/>
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seopject)](https://solved.ac/seopject/)
   
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seopject&&show_icons=true&theme=cobalt)
