@@ -11,10 +11,14 @@
   ### 📂*Languages*
  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=FFD43B">
   <img src="https://img.shields.io/badge/R-DCDCDC?style=for-the-badge&logo=R&logoColor=468284">
- <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=Django&logoColor=132CC0A4">
  <img src="https://img.shields.io/badge/Html-f5deb3?style=for-the-badge&logo=html5&logoColor=132CC0A4">
  <img src="https://img.shields.io/badge/CSS-00008b?style=for-the-badge&logo=css3&logoColor=132CC0A4">
  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=323330">
+    <df/>
+  
+   ### 📂*Frameworks*
+   <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=Django&logoColor=132CC0A4">
+   <img src="https://img.shields.io/badge/Vue-809CC9?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   
  
   
