@@ -1,3 +1,5 @@
+<div align="center">
+
 <head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6T62M6MSEJ"></script>
@@ -9,10 +11,6 @@
     gtag('config', 'G-6T62M6MSEJ');
   </script>
 <head/>
-
-
-
-<div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:015D84,100:062F36&height=200&section=header&text=@Seopject&fontColor=E6F3D6&fontSize=70&fontAlign=70&fontAlignY=60&animation=twinkling)
 
